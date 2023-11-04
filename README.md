@@ -12,7 +12,7 @@ Steps to access bitbucket-ADaPT repository.
 10.Text box will appear , select the radio button "Read/write". And paste your public key on the textbox save it.
 11.Then go to cmd or gitbash, need to execute the below commands before you can push the code.
   a)git config --global user.name "Mohapatra, Smita"
-    git config --global user.email "smita.mohapatra@accenture.com"
+    git config --global user.email "email@abc.com"
   b)Clone the repo
     git clone ssh://git@innersource.accenture.com/~smita.mohapatra/adapt.git
   c)My code is ready to be pushed
